@@ -1,15 +1,14 @@
 class Solution {
     public int findDuplicate(int[] n) {
-        int l = n.length;
-        for (int a:n) {
-            int i=Math.abs(a);
-            if(n[i]<0){
-                return i;
+        for(int i=0;i<n.length;i++){
+            int d=Math.abs(n[i])-1;
+            if(n[d]>0){
+                n[d]*=-1;
             }
-            n[i]=-n[i];
-
+            else{
+                return Math.abs(n[i]);
+            }
         }
-
-        return l;
+        return n[n.length-1];
     }
 }

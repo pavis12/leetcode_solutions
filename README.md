@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/pavis12/leetcode_solutions/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/pavis12/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/pavis12/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/0493-reverse-pairs) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/pavis12/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
 # Divide and Conquer
@@ -74,3 +76,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/0493-reverse-pairs) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pavis12/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |

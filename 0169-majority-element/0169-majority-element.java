@@ -1,24 +1,19 @@
 class Solution {
     public int majorityElement(int[] n) {
-        int c=0;
-        int e=0;
-        
-        for(int i=0;i<n.length;i++){
+        int c=0,a=0;
+        for(int i:n){
             if(c==0){
-                e=n[i];
+                a=i;
                 c++;
             }
-            else if(e==n[i]){
+            else if(i==a){
                 c++;
             }
             else{
                 c--;
+                
             }
         }
-        return e;
-        
-        
-        
+        return a;
     }
-    
 }

@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/pavis12/leetcode_solutions/tree/master/0018-4sum) |
 | [0344-reverse-string](https://github.com/pavis12/leetcode_solutions/tree/master/0344-reverse-string) |
 # String
 |  |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/pavis12/leetcode_solutions/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/pavis12/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -48,6 +50,7 @@
 # Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/pavis12/leetcode_solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
 # Counting

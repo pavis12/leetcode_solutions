@@ -6,10 +6,12 @@
 | ------- |
 | [0018-4sum](https://github.com/pavis12/leetcode_solutions/tree/master/0018-4sum) |
 | [0344-reverse-string](https://github.com/pavis12/leetcode_solutions/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/pavis12/leetcode_solutions/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
 | ------- |
@@ -80,3 +82,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pavis12/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |

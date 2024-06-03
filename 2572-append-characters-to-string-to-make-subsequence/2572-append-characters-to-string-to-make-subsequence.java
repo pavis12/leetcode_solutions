@@ -8,8 +8,8 @@ class Solution {
                 j++;
             }
         }
-        int c=lt-j;
-        return c;
+        
+        return lt-j;
         
     }
 }

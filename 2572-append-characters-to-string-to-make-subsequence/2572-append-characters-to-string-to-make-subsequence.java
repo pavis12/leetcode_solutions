@@ -3,8 +3,8 @@ class Solution {
         int j=0;
         int lt=t.length();
         int st=s.length();
-        for(char i:s.toCharArray()){
-            if(j<lt&&i==t.charAt(j)){
+        for(int i=0;i<st;i++){
+            if(j<lt&&s.charAt(i)==t.charAt(j)){
                 j++;
             }
         }

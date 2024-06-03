@@ -8,11 +8,11 @@ class Solution {
            
             
                 char t=s.charAt(i);
-                m.put(t,m.getOrDefault(t,0)+1);
-                while(m.get(t)>1){
-                    m.put(s.charAt(j),m.get(s.charAt(j))-1);
-                    j++;
+                if(m.containsKey(t)){
+                    j=Math.max(j,m.get(t)+1);
                 }
+                m.put(t,i);
+               
                 c=Math.max(c,i-j+1);
                 i++;
                 

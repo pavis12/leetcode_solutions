@@ -29,6 +29,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/pavis12/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0485-max-consecutive-ones](https://github.com/pavis12/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/pavis12/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 # Binary Search

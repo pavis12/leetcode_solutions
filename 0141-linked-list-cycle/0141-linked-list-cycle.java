@@ -10,7 +10,6 @@
  * }
  */
 public class Solution {
-   
     public boolean hasCycle(ListNode head) {
         ListNode f=head;
         ListNode s=head;
@@ -22,5 +21,7 @@ public class Solution {
             }
         }
         return false;
+
+        
     }
 }

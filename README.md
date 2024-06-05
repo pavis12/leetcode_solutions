@@ -18,6 +18,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavis12/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/pavis12/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/pavis12/leetcode_solutions/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -32,6 +33,7 @@
 | [0485-max-consecutive-ones](https://github.com/pavis12/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/pavis12/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1044-find-common-characters](https://github.com/pavis12/leetcode_solutions/tree/master/1044-find-common-characters) |
 # Binary Search
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/pavis12/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1044-find-common-characters](https://github.com/pavis12/leetcode_solutions/tree/master/1044-find-common-characters) |
 # Divide and Conquer
 |  |
 | ------- |

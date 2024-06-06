@@ -131,3 +131,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pavis12/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pavis12/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/pavis12/leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |

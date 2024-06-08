@@ -29,6 +29,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/pavis12/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/pavis12/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -155,7 +156,9 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0090-subsets-ii) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0090-subsets-ii) |

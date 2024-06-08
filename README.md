@@ -28,6 +28,7 @@
 | [0018-4sum](https://github.com/pavis12/leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/pavis12/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/pavis12/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -150,3 +151,11 @@
 | [1827-invalid-tweets](https://github.com/pavis12/leetcode_solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pavis12/leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/pavis12/leetcode_solutions/tree/master/2087-confirmation-rate) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |

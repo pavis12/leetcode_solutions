@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/pavis12/leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pavis12/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0090-subsets-ii) |
@@ -155,6 +156,7 @@
 # Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0090-subsets-ii) |
 # Bit Manipulation

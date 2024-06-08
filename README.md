@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavis12/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/pavis12/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/pavis12/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/pavis12/leetcode_solutions/tree/master/1044-find-common-characters) |
@@ -161,8 +162,13 @@
 | [0040-combination-sum-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/pavis12/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0090-subsets-ii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/pavis12/leetcode_solutions/tree/master/0131-palindrome-partitioning) |

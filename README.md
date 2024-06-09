@@ -39,6 +39,7 @@
 | [0485-max-consecutive-ones](https://github.com/pavis12/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/pavis12/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/pavis12/leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/pavis12/leetcode_solutions/tree/master/1044-find-common-characters) |
 # Binary Search
 |  |
@@ -76,6 +77,7 @@
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/pavis12/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/pavis12/leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/pavis12/leetcode_solutions/tree/master/1044-find-common-characters) |
 # Divide and Conquer
 |  |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pavis12/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/pavis12/leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 # Sliding Window
 |  |
 | ------- |

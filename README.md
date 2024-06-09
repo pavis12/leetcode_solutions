@@ -39,6 +39,7 @@
 | [0485-max-consecutive-ones](https://github.com/pavis12/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/pavis12/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0954-maximum-sum-circular-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/pavis12/leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/pavis12/leetcode_solutions/tree/master/1044-find-common-characters) |
 # Binary Search
@@ -84,6 +85,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0954-maximum-sum-circular-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 # Sorting
 |  |
 | ------- |
@@ -180,3 +182,12 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/pavis12/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
+| [0954-maximum-sum-circular-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+# Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+# Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |

@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavis12/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/pavis12/leetcode_solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/pavis12/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/pavis12/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pavis12/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -31,6 +32,7 @@
 | [0039-combination-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/pavis12/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/pavis12/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/pavis12/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/pavis12/leetcode_solutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/pavis12/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [1137-height-checker](https://github.com/pavis12/leetcode_solutions/tree/master/1137-height-checker) |

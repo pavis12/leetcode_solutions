@@ -35,6 +35,7 @@
 | [0075-sort-colors](https://github.com/pavis12/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pavis12/leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/pavis12/leetcode_solutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/pavis12/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
@@ -193,6 +194,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/pavis12/leetcode_solutions/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/pavis12/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 # Queue

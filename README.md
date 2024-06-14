@@ -43,6 +43,7 @@
 | [0493-reverse-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/pavis12/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/pavis12/leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/pavis12/leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/pavis12/leetcode_solutions/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/pavis12/leetcode_solutions/tree/master/1137-height-checker) |
@@ -99,6 +100,7 @@
 | [0075-sort-colors](https://github.com/pavis12/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/pavis12/leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/pavis12/leetcode_solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pavis12/leetcode_solutions/tree/master/1217-relative-sort-array) |
 # Counting
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/0409-longest-palindrome) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/pavis12/leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Prefix Sum
 |  |
@@ -208,5 +211,6 @@
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/pavis12/leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/pavis12/leetcode_solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pavis12/leetcode_solutions/tree/master/1217-relative-sort-array) |

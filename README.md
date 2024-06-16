@@ -19,6 +19,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavis12/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/pavis12/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/pavis12/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/pavis12/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/0409-longest-palindrome) |
@@ -221,3 +222,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pavis12/leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/pavis12/leetcode_solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/pavis12/leetcode_solutions/tree/master/1217-relative-sort-array) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/0014-longest-common-prefix) |

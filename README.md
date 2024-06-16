@@ -23,6 +23,7 @@
 | [0131-palindrome-partitioning](https://github.com/pavis12/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/pavis12/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/0409-longest-palindrome) |
+| [0686-repeated-string-match](https://github.com/pavis12/leetcode_solutions/tree/master/0686-repeated-string-match) |
 | [1044-find-common-characters](https://github.com/pavis12/leetcode_solutions/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
@@ -226,3 +227,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+# String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/pavis12/leetcode_solutions/tree/master/0686-repeated-string-match) |

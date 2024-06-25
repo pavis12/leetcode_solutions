@@ -231,3 +231,19 @@
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/pavis12/leetcode_solutions/tree/master/0686-repeated-string-match) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |

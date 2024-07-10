@@ -264,6 +264,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/pavis12/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/pavis12/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
@@ -277,6 +278,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/pavis12/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
@@ -313,5 +315,6 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/pavis12/leetcode_solutions/tree/master/0038-count-and-say) |
+| [0242-valid-anagram](https://github.com/pavis12/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1720-crawler-log-folder](https://github.com/pavis12/leetcode_solutions/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->

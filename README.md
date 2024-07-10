@@ -312,5 +312,6 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/pavis12/leetcode_solutions/tree/master/0038-count-and-say) |
 | [1720-crawler-log-folder](https://github.com/pavis12/leetcode_solutions/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->

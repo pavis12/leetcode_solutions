@@ -258,6 +258,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/pavis12/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0624-maximum-distance-in-arrays](https://github.com/pavis12/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/pavis12/leetcode_solutions/tree/master/0890-lemonade-change) |
 | [1720-crawler-log-folder](https://github.com/pavis12/leetcode_solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/pavis12/leetcode_solutions/tree/master/1803-average-waiting-time) |
@@ -321,5 +322,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/pavis12/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/pavis12/leetcode_solutions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->

@@ -1,12 +1,11 @@
 class Solution {
     public int missingNumber(int[] n) {
-        List<Integer> l=new ArrayList<>();
+        int l=n.length;
+        int s1=l*(l+1)/2;
+        int s2=0;
         for(int i:n){
-            l.add(i);
+            s2+=i;
         }
-        for(int i=0;i<=n.length;i++){
-            if(!l.contains(i))return i;
-        }
-        return n.length;
+        return s1-s2;
     }
 }

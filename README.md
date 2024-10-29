@@ -258,6 +258,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/pavis12/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/pavis12/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavis12/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -283,6 +284,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/pavis12/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |

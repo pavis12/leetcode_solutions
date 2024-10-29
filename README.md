@@ -261,6 +261,7 @@
 | [0268-missing-number](https://github.com/pavis12/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/pavis12/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/pavis12/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0624-maximum-distance-in-arrays](https://github.com/pavis12/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/pavis12/leetcode_solutions/tree/master/0890-lemonade-change) |

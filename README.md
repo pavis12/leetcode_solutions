@@ -260,6 +260,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/pavis12/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/pavis12/leetcode_solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pavis12/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pavis12/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -280,6 +281,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pavis12/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pavis12/leetcode_solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -303,6 +305,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pavis12/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pavis12/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pavis12/leetcode_solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -377,6 +380,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pavis12/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Trie
 |  |
@@ -390,4 +394,8 @@
 |  |
 | ------- |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -256,6 +256,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/pavis12/leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/pavis12/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -277,6 +278,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/pavis12/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pavis12/leetcode_solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |

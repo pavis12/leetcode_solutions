@@ -261,6 +261,7 @@
 | [0031-next-permutation](https://github.com/pavis12/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/pavis12/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/pavis12/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pavis12/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavis12/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -323,6 +324,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pavis12/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [1803-average-waiting-time](https://github.com/pavis12/leetcode_solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavis12/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pavis12/leetcode_solutions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -404,6 +406,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pavis12/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/pavis12/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer

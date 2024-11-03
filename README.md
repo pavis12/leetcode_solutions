@@ -259,6 +259,7 @@
 | [0001-two-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pavis12/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/pavis12/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pavis12/leetcode_solutions/tree/master/0075-sort-colors) |
@@ -328,6 +329,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pavis12/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pavis12/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pavis12/leetcode_solutions/tree/master/0268-missing-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavis12/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -401,6 +403,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pavis12/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer

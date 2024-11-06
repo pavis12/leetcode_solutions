@@ -7,10 +7,10 @@ class Solution {
             if(i>0&&n[i]==n[i-1])continue;
             int j=i+1;
             int k=m-1;
+            int s=0;
             while(j<k){
-                int s=n[i];
-                s+=n[j];
-                s+=n[k];
+                s=n[i];
+                s+=n[j]+n[k];
                 if(s==0){
                     List<Integer> p=new ArrayList<>();
                     p.add(n[i]);
@@ -28,11 +28,8 @@ class Solution {
                 else{
                     j++;
                 }
-                
-
             }
         }
         return nl;
-        
     }
 }

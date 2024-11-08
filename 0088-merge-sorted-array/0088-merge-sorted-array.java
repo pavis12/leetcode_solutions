@@ -12,7 +12,6 @@ class Solution {
             n1[k--]=n2[j--];
            }
         }
-       
-
+        
     }
 }

@@ -10,18 +10,15 @@
  * }
  */
 public class Solution {
-    public boolean hasCycle(ListNode head) {
-        ListNode f=head;
-        ListNode s=head;
+    public boolean hasCycle(ListNode h) {
+        ListNode f=h;
+        ListNode s=h;
         while(f!=null&&f.next!=null){
             f=f.next.next;
+            if(f==s)return true;
             s=s.next;
-            if(f==s){
-                return true;
-            }
+
         }
         return false;
-
-        
     }
 }

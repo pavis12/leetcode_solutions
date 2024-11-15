@@ -296,6 +296,7 @@
 | [0001-two-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/pavis12/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pavis12/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pavis12/leetcode_solutions/tree/master/0268-missing-number) |
@@ -314,6 +315,7 @@
 | [0075-sort-colors](https://github.com/pavis12/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pavis12/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/pavis12/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -341,6 +343,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pavis12/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/pavis12/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pavis12/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pavis12/leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |

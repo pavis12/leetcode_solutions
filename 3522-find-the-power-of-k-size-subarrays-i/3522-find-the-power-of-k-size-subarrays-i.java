@@ -1,24 +1,24 @@
 class Solution {
     public int[] resultsArray(int[] n, int k) {
+        if(k==1){
+            return n;
+        }
         int l=n.length;
         int [] a=new int[l-k+1];
+        Arrays.fill(a,-1);
         int j=0;
-        for(int i=0;i<l-k+1;i++){
-            int m=-1,f=0;
-            for(int p=i;p<i+k;p++){
-                System.out.print(n[p]+" ");
-                if(p==i+k-1)m=Math.max(n[p],m);
-                else if(p<l-1&&n[p]<n[p+1]&&n[p+1]==n[p]+1){
-                    m=Math.max(n[p],m);
-                }
-                else{
-                    f=1;
-                    break;
-                }
+        int c=1;
+        for(int i=0;i<l-1;i++){
+            if(n[i]+1==n[i+1]){
+                c++;
             }
-            System.out.println();
-            if(f==0)a[j++]=m;
-            else a[j++]=-1;
+            else{
+                c=1;
+                
+            }
+            if(c>=k){
+                a[i-k+2]=n[i+1];
+            }
         }
         return a;
     }

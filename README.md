@@ -290,6 +290,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pavis12/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavis12/leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -466,4 +467,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/pavis12/leetcode_solutions/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavis12/leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->

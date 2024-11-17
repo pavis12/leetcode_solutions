@@ -10,33 +10,43 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode h, int k) {
-        if(h==null||k==1)return h;
-        int l=0;
-        
-      
-        ListNode d=new ListNode(0);
-        d.next=h;
-        ListNode p=d;
-        ListNode c=d;
-        ListNode n=d;
-          while(c!=null&&c.next!=null){
-            c=c.next;
-            l++;
+        if (h == null || k <= 1) {
+            return h; // If list is empty or k <= 1, no reversal is needed
         }
-        while(l>=k){
-            c=p.next;
-            n=c.next;
-            for(int i=1;i<k;i++){
-                c.next=n.next;
-                n.next=p.next;
-                p.next=n;
-                n=c.next;
 
-                
+        int c = 0;
+        ListNode t = h;
+        ListNode d = new ListNode(0); // Dummy node
+        ListNode g = d; // Pointer to track the end of the reversed list
+        ListNode n = h;
+
+        while (t != null) {
+            c++;
+            if (c % k == 0) { // When we've reached a group of size k
+                ListNode q = t.next; // Store the next group's starting node
+                t.next = null; // Break the current group
+                ListNode r = rev(n); // Reverse the current group
+                g.next = r; // Connect the reversed group to the previous part
+                g = n; // Update the tail of the reversed list
+                n = q; // Move to the next group
+                t = q; // Reset `t` to the next group's starting node
+            } else {
+                t = t.next; // Move to the next node
             }
-            l-=k;
-            p=c;
         }
-        return d.next;
+        g.next = n; // Attach the remaining nodes (if any)
+        return d.next; // Return the head of the new list
+    }
+
+    // Helper function to reverse a linked list
+    public ListNode rev(ListNode h) {
+        ListNode p = null;
+        while (h != null) {
+            ListNode n = h.next;
+            h.next = p;
+            p = h;
+            h = n;
+        }
+        return p;
     }
 }

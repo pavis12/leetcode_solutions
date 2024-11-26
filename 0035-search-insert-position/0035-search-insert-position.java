@@ -1,12 +1,18 @@
 class Solution {
     public int searchInsert(int[] n, int t) {
-        int s=0,e=n.length-1;
-        while(s<=e){
-            int m=(s+e)/2;
-            if(n[m]==t)return m;
-            else if(n[m]>t) e=m-1;
-            else s=m+1;
+        int l=0,h=n.length-1;
+        int p=n.length;
+        while(l<=h){
+            int m=l+((h-l)/2);
+            if(n[m]>=t){
+                p=m;
+                h=m-1;
+
+            }
+            else{
+                l=m+1;
+            }
         }
-        return s;
+        return p;
     }
 }

@@ -3,7 +3,7 @@ class Solution {
         int l=0,h=n.length-1;
         int m;
         while(l<=h){
-            m=(l+h)/2;
+            m=l+((h-l)/2);
             if(n[m]==t)return m;
             else if(n[m]<t)l++;
             else h--;

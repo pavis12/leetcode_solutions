@@ -289,6 +289,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/pavis12/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0792-binary-search](https://github.com/pavis12/leetcode_solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/pavis12/leetcode_solutions/tree/master/0890-lemonade-change) |
+| [1046-max-consecutive-ones-iii](https://github.com/pavis12/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1325-path-with-maximum-probability](https://github.com/pavis12/leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pavis12/leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/pavis12/leetcode_solutions/tree/master/1720-crawler-log-folder) |
@@ -351,6 +352,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/pavis12/leetcode_solutions/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/pavis12/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pavis12/leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sorting
 |  |
@@ -495,6 +497,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pavis12/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/pavis12/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -504,6 +507,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavis12/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/pavis12/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavis12/leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String Matching
 |  |

@@ -1,12 +1,20 @@
 class Solution {
-    public boolean checkIfExist(int[] a) {
-        Map<Integer,Integer>l=new HashMap<>();
-        for(int i=0;i<a.length;i++){
-            l.put(a[i],i);
+
+    public boolean checkIfExist(int[] arr) {
+        Set<Integer> seen = new HashSet<>();
+
+        for (int num : arr) {
+            // Check if 2 * num or num / 2 exists in the set
+            if (
+                seen.contains(2 * num) ||
+                (num % 2 == 0 && seen.contains(num / 2))
+            ) {
+                return true;
+            }
+            // Add the current number to the set
+            seen.add(num);
         }
-        for(int i=0;i<a.length;i++){
-            if(l.containsKey(a[i]*2)&&l.get(a[i]*2)!=i)return true;
-        }
+        // No valid pair found
         return false;
     }
 }

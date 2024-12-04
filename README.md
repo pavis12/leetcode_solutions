@@ -455,6 +455,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/pavis12/leetcode_solutions/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [1325-path-with-maximum-probability](https://github.com/pavis12/leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
@@ -530,8 +531,14 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/pavis12/leetcode_solutions/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/pavis12/leetcode_solutions/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

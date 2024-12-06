@@ -299,6 +299,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pavis12/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavis12/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pavis12/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavis12/leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -321,6 +322,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/pavis12/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pavis12/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pavis12/leetcode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -362,6 +364,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/pavis12/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pavis12/leetcode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pavis12/leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -376,6 +379,7 @@
 | [0268-missing-number](https://github.com/pavis12/leetcode_solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pavis12/leetcode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Linked List
 |  |
 | ------- |
@@ -452,6 +456,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/pavis12/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/pavis12/leetcode_solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pavis12/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Graph
 |  |
 | ------- |

@@ -546,6 +546,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/pavis12/leetcode_solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -573,6 +574,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -580,6 +582,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->

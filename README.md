@@ -431,6 +431,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/pavis12/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pavis12/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pavis12/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -544,6 +545,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/pavis12/leetcode_solutions/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/pavis12/leetcode_solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -561,4 +563,12 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/pavis12/leetcode_solutions/tree/master/0077-combinations) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

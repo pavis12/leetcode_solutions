@@ -304,6 +304,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavis12/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pavis12/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/pavis12/leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavis12/leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -414,6 +415,7 @@
 | [1803-average-waiting-time](https://github.com/pavis12/leetcode_solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavis12/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pavis12/leetcode_solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/pavis12/leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Math
 |  |
 | ------- |
@@ -480,6 +482,7 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/pavis12/leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/pavis12/leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Shortest Path
 |  |
 | ------- |

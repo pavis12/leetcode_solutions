@@ -279,6 +279,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/pavis12/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pavis12/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/pavis12/leetcode_solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pavis12/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -520,6 +521,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavis12/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/pavis12/leetcode_solutions/tree/master/0198-house-robber) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |

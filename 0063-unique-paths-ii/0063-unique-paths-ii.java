@@ -1,32 +1,36 @@
-class Solution {
-    public int uniquePathsWithObstacles(int[][] o) {
-        int m=o.length;
-        int n=o[0].length;
-        int d[][]=new int[m][n];
-        for(int []r:d){
-            Arrays.fill(r,-1);
-        }
-        return find(m-1,n-1,d,o);
-    }
-    public int find(int i,int j,int[][] d,int [][]o){
-        if(i==0&&j==0){
-            if(o[i][j]==0){
-                return 1;
-            }
-            else{
-                return 0;
-            }
-            
-        }
-        if(i<0||j<0||o[i][j]==1){
+class Solution
+{
+    int help(int[][]path,int n,int m,int dp[][])
+    {
+        if(n<0 || m<0)
+        {
             return 0;
         }
-        if(d[i][j]!=-1){
-            return d[i][j];
+        if(path[n][m]==1)
+        {
+            return 0;
         }
-        int t=find(i-1,j,d,o);
-        int l=find(i,j-1,d,o);
-        d[i][j]=t+l;
-        return d[i][j];
+        if(n==0 && m==0)
+        {
+            return 1;
+            //basecase
+        }
+        if(dp[n][m]!=-1)return dp[n][m];
+       
+     
+        int up=help(path,n-1,m,dp);
+        int left=help(path,n,m-1,dp);
+        return dp[n][m]=up+left;
+    }
+    public int uniquePathsWithObstacles(int[][] path) 
+    {
+        int n=path.length;
+        int m=path[0].length;
+        int dp[][]=new int[n+1][m+1];
+        for(int []arr:dp)
+        {
+            Arrays.fill(arr,-1);
+        }
+        return help(path,n-1,m-1,dp);        
     }
 }

@@ -299,6 +299,7 @@
 | [0907-koko-eating-bananas](https://github.com/pavis12/leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/pavis12/leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/pavis12/leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-path-with-maximum-probability](https://github.com/pavis12/leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pavis12/leetcode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pavis12/leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -454,12 +455,14 @@
 | [0234-palindrome-linked-list](https://github.com/pavis12/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pavis12/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pavis12/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pavis12/leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/pavis12/leetcode_solutions/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pavis12/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pavis12/leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## String
 |  |
@@ -627,6 +630,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pavis12/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -645,6 +649,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pavis12/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
 | ------- |
@@ -660,4 +665,5 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->

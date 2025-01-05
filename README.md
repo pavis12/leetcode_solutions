@@ -580,6 +580,7 @@
 | [0133-clone-graph](https://github.com/pavis12/leetcode_solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pavis12/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
@@ -617,6 +618,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pavis12/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -632,6 +634,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pavis12/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -647,5 +650,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->

@@ -265,6 +265,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pavis12/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/pavis12/leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/pavis12/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/pavis12/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pavis12/leetcode_solutions/tree/master/0054-spiral-matrix) |
@@ -349,6 +350,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavis12/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/pavis12/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/pavis12/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/pavis12/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pavis12/leetcode_solutions/tree/master/0141-linked-list-cycle) |
@@ -453,6 +455,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pavis12/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/pavis12/leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -466,6 +469,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pavis12/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/pavis12/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -529,6 +533,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pavis12/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/pavis12/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0063-unique-paths-ii) |

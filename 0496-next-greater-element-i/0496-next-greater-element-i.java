@@ -1,35 +1,24 @@
 class Solution {
     public int[] nextGreaterElement(int[] n1, int[] n2) {
-        int r[]=new int[n2.length];
-        Stack<Integer> st=new Stack<>();
-        List<Integer> l=new ArrayList<>();
-        for(int i:n2){
-            l.add(i);
-        }
-        for(int i=n2.length-1;i>=0;i--){
-            if(st.isEmpty()){
-                //st.push(-1);
-                r[i]=-1;
+        Map<Integer, Integer> m = new HashMap<>();
+        Stack<Integer> st = new Stack<>();
+        
+        for (int i = n2.length - 1; i >= 0; i--) {
+            while (!st.isEmpty() && st.peek() <= n2[i]) {
+                st.pop(); // Pop smaller elements as they can't be the next greater element
             }
-            else{
-                while(!st.isEmpty()&&st.peek()<n2[i]){
-                    st.pop();
-                }
-                if(st.isEmpty()){
-                    r[i]=-1;
-                }
-                else{
-                    r[i]=st.peek();
-                }
+            if (st.isEmpty()) {
+                m.put(n2[i], -1); // No greater element
+            } else {
+                m.put(n2[i], st.peek()); // Top of stack is the next greater element
             }
-            st.push(n2[i]);
-            //l.add(n2[i]);
+            st.push(n2[i]); // Push current element into stack
         }
-        int f[]=new int[n1.length];
-        for(int i=0;i<n1.length;i++){
-            int b=l.indexOf(n1[i]);
-            f[i]=r[b];
+        
+        int[] c = new int[n1.length];
+        for (int i = 0; i < n1.length; i++) {
+            c[i] = m.get(n1[i]); // Get the next greater element for each element in n1
         }
-        return f;
+        return c;
     }
 }

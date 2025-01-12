@@ -466,6 +466,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pavis12/leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/pavis12/leetcode_solutions/tree/master/1720-crawler-log-folder) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pavis12/leetcode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -486,6 +487,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pavis12/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pavis12/leetcode_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/pavis12/leetcode_solutions/tree/master/1720-crawler-log-folder) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pavis12/leetcode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
 |  |
@@ -494,6 +496,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/pavis12/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/pavis12/leetcode_solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pavis12/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pavis12/leetcode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Graph
 |  |

@@ -4,6 +4,7 @@ class Solution {
         List<String> g=new ArrayList<>();
         int o=0,c=0;
         String h="";
+        String f="";
         for(int i=0;i<l;i++){
             char a=s.charAt(i);
             if(a=='(')o++;
@@ -13,10 +14,12 @@ class Solution {
                 g.add(h);
                 o=0;
                 c=0;
+                String r=h.substring(1,h.length()-1);
+                f+=r;
                 h="";
             }
         }
-        String p="";
+        /*String p="";
         for(String k:g){
             if(k!=""){
                 //System.out.println(k);
@@ -24,7 +27,7 @@ class Solution {
                 System.out.println(r);
                 p+=r;
             }
-        }
-        return p;
+        }*/
+        return f;
     }
 }

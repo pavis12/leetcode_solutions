@@ -7,7 +7,7 @@ class Solution {
             if(a=='(')o++;
             else if(a==')') o--;
             m=Math.max(m,o);
-            System.out.println(o);
+            //System.out.println(o);
 
         }
         return m;

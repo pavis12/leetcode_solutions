@@ -496,6 +496,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavis12/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/pavis12/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavis12/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/pavis12/leetcode_solutions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/pavis12/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -566,6 +567,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pavis12/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pavis12/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/pavis12/leetcode_solutions/tree/master/0062-unique-paths) |
@@ -663,6 +665,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pavis12/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/pavis12/leetcode_solutions/tree/master/0077-combinations) |
 ## Tree
 |  |

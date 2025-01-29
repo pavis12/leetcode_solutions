@@ -530,6 +530,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/pavis12/leetcode_solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/pavis12/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [1325-path-with-maximum-probability](https://github.com/pavis12/leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
@@ -642,6 +643,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/pavis12/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/pavis12/leetcode_solutions/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -655,6 +657,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pavis12/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/pavis12/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/pavis12/leetcode_solutions/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/pavis12/leetcode_solutions/tree/master/1036-rotting-oranges) |
@@ -662,6 +665,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/pavis12/leetcode_solutions/tree/master/0684-redundant-connection) |
 ## Backtracking
 |  |
 | ------- |

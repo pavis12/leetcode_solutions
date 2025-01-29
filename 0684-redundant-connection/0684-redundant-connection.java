@@ -1,36 +1,41 @@
 class Solution {
-    public int[] findRedundantConnection(int[][] e) {
-        int l = e.length;
-        int[][] d = new int[l + 1][l + 1];
+    public int[] findRedundantConnection(int[][] edges) {
+        int n = edges.length;
+        int[] parent = new int[n + 1];
         
-        for (int i = 0; i < l; i++) {
-            int m = e[i][0];
-            int n = e[i][1];
+        // Initialize each node to be its own parent
+        for (int i = 1; i <= n; i++) {
+            parent[i] = i;
+        }
+        
+        for (int[] edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
             
-            if (!dfs(m, n, m, new boolean[l + 1], d)) {
-                return new int[]{m, n};
+            // Check if u and v are already connected
+            if (find(parent, u) == find(parent, v)) {
+                return edge; // This edge forms a cycle
             }
             
-            d[m][n] = 1;
-            d[n][m] = 1;
+            // Union the two nodes
+            union(parent, u, v);
         }
         
         return new int[]{-1, -1};
     }
     
-    private boolean dfs(int src, int dest, int node, boolean[] visited, int[][] d) {
-        if (node == dest) return false;
-        
-        visited[node] = true;
-        
-        for (int next = 1; next < d.length; next++) {
-            if (d[node][next] == 1 && !visited[next]) {
-                if (!dfs(src, dest, next, visited, d)) {
-                    return false;
-                }
-            }
+    // Find with path compression
+    private int find(int[] parent, int x) {
+        if (parent[x] != x) {
+            parent[x] = find(parent, parent[x]); // Path compression
         }
-        
-        return true;
+        return parent[x];
+    }
+    
+    // Union by assigning the parent of one node to the other
+    private void union(int[] parent, int x, int y) {
+        int rootX = find(parent, x);
+        int rootY = find(parent, y);
+        parent[rootX] = rootY; // Union the two sets
     }
 }

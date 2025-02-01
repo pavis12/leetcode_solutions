@@ -319,6 +319,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pavis12/leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3429-special-array-i](https://github.com/pavis12/leetcode_solutions/tree/master/3429-special-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavis12/leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |

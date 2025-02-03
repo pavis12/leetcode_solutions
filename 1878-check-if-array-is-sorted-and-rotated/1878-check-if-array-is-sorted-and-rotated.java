@@ -1,17 +1,16 @@
 class Solution {
     public boolean check(int[] n) {
-        int l=n.length;
-        int i=0;
-        int c=0;
-        for(i=0;i<l-1;i++){
-            
-            if(n[i]>n[i+1]){
-                c++;
+        int l = n.length;
+        int count = 0; // To count the number of decreasing points
+        
+        for (int i = 0; i < l; i++) {
+            // Compare current element with the next (with wrap-around using modulo)
+            if (n[i] > n[(i + 1) % l]) {
+                count++;
             }
         }
-        if(n[0]<n[l-1])c++;
-       
-        if(c>1)return false;
-        else return true;
+        
+        // If there is at most one decreasing transition, it's a rotated sorted array
+        return count <= 1;
     }
 }

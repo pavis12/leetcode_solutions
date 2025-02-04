@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int coinChange(int[] l, int a) {
         int n = l.length;
         int t[][] = new int[n + 1][a + 1];
@@ -26,4 +26,23 @@ class Solution {
 
         return t[n][a] == Integer.MAX_VALUE - 1 ? -1 : t[n][a];
     }
+}*/
+class Solution {
+    public int coinChange(int[] l, int a) {
+        int dp[] = new int[a + 1];
+
+        // Initialize dp array with a large value
+        Arrays.fill(dp, Integer.MAX_VALUE - 1);
+        dp[0] = 0; // Base case: 0 amount needs 0 coins
+
+        // Iterate over each coin
+        for (int coin : l) {
+            for (int j = coin; j <= a; j++) {
+                dp[j] = Math.min(dp[j], 1 + dp[j - coin]);
+            }
+        }
+
+        return dp[a] == Integer.MAX_VALUE - 1 ? -1 : dp[a];
+    }
 }
+

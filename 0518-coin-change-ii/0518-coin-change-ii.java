@@ -1,18 +1,29 @@
 class Solution {
-    public int change(int amount, int[] coins) {
-        // Create a DP array where dp[i] represents the number of ways to make up amount i.
-        int[] dp = new int[amount + 1];
-        dp[0] = 1; // There is one way to make amount 0, by using no coins.
-        
-        // Iterate over each coin.
-        for (int coin : coins) {
-            // Update the DP array for all amounts that can include this coin.
-            for (int j = coin; j <= amount; j++) {
-                dp[j] += dp[j - coin];
+    public int change(int a, int[] l) {
+        int n = l.length;
+        int t[][] = new int[n + 1][a + 1];
+
+        // Initialize the first row (excluding t[0][0]) to a large value (infinity)
+        for (int j = 1; j <= a; j++) {
+            t[0][j] = 0;
+        }
+
+        // Initialize the first column: 0 amount requires 0 coins
+        for (int i = 0; i <= n; i++) {
+            t[i][0] = 1;
+        }
+
+        // Fill the DP table
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= a; j++) {
+                if (l[i - 1] <= j) {
+                    t[i][j] = t[i][j - l[i - 1]]+ t[i - 1][j];
+                } else {
+                    t[i][j] = t[i - 1][j];
+                }
             }
         }
-        
-        // The answer is the number of ways to make the full amount.
-        return dp[amount];
+
+        return t[n][a] ;
     }
 }

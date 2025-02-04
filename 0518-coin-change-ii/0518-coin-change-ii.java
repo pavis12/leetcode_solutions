@@ -1,6 +1,6 @@
 class Solution {
     public int change(int a, int[] l) {
-        int n = l.length;
+        /*int n = l.length;
         int t[][] = new int[n + 1][a + 1];
 
         // Initialize the first row (excluding t[0][0]) to a large value (infinity)
@@ -24,6 +24,20 @@ class Solution {
             }
         }
 
-        return t[n][a] ;
+        return t[n][a] ;*/
+        int dp[] = new int[a + 1];
+
+        // Initialize dp array with a large value
+        //Arrays.fill(dp, Integer.MAX_VALUE - 1);
+        dp[0] = 1; // Base case: 0 amount needs 0 coins
+
+        // Iterate over each coin
+        for (int coin : l) {
+            for (int j = coin; j <= a; j++) {
+                dp[j] = dp[j]+dp[j - coin];
+            }
+        }
+
+        return dp[a];
     }
 }

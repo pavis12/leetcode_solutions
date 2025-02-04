@@ -292,6 +292,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/pavis12/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pavis12/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/pavis12/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pavis12/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -587,6 +588,7 @@
 | [0198-house-robber](https://github.com/pavis12/leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0494-target-sum) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
@@ -678,6 +680,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/pavis12/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/pavis12/leetcode_solutions/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |

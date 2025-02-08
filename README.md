@@ -353,6 +353,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/pavis12/leetcode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/pavis12/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pavis12/leetcode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/pavis12/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pavis12/leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -550,6 +551,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pavis12/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/pavis12/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1325-path-with-maximum-probability](https://github.com/pavis12/leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
+| [2434-design-a-number-container-system](https://github.com/pavis12/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pavis12/leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pavis12/leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Shortest Path
@@ -756,6 +758,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/pavis12/leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
+| [2434-design-a-number-container-system](https://github.com/pavis12/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 ## Iterator
 |  |
 | ------- |
@@ -775,4 +778,8 @@
 | [1153-product-sales-analysis-i](https://github.com/pavis12/leetcode_solutions/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/pavis12/leetcode_solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pavis12/leetcode_solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/pavis12/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->

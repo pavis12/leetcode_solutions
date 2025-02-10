@@ -453,6 +453,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/pavis12/leetcode_solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pavis12/leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pavis12/leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3447-clear-digits](https://github.com/pavis12/leetcode_solutions/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -493,6 +494,7 @@
 | [1720-crawler-log-folder](https://github.com/pavis12/leetcode_solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pavis12/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pavis12/leetcode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/pavis12/leetcode_solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -527,6 +529,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/pavis12/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pavis12/leetcode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/pavis12/leetcode_solutions/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |

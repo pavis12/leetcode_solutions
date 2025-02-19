@@ -1,27 +1,28 @@
 class Solution {
     private int count = 0;
-    private String result = "";
-    
+    private String result = null;
+
     public String getHappyString(int n, int k) {
-        generateHappyString(n, "", k);
-        return result;
+        StringBuilder sb = new StringBuilder();
+        backtrack(n, k, sb, '\0');
+        return result == null ? "" : result;
     }
 
-    private void generateHappyString(int n, String current, int k) {
-        if (current.length() == n) {
+    private void backtrack(int n, int k, StringBuilder sb, char lastChar) {
+        if (sb.length() == n) {
             count++;
             if (count == k) {
-                result = current;
+                result = sb.toString();
             }
             return;
         }
-        
+
         for (char ch = 'a'; ch <= 'c'; ch++) {
-            if (!current.isEmpty() && current.charAt(current.length() - 1) == ch) {
-                continue;
-            }
-            generateHappyString(n, current + ch, k);
-            if (!result.isEmpty()) return; // Stop recursion if the result is found
+            if (ch == lastChar) continue; // Ensure adjacent characters are different
+            sb.append(ch);
+            backtrack(n, k, sb, ch);
+            sb.deleteCharAt(sb.length() - 1); // Backtrack
+            if (result != null) return; // Stop once we find the k-th string
         }
     }
 }

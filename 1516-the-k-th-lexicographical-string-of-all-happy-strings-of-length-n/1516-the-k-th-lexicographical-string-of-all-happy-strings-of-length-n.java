@@ -1,19 +1,27 @@
 class Solution {
+    private int count = 0;
+    private String result = "";
+    
     public String getHappyString(int n, int k) {
-        List<String> l=new ArrayList<>();
-        f(n,"",l);
-        if(l.size()<k)return "";
-        Collections.sort(l);
-        return l.get(k-1);
+        generateHappyString(n, "", k);
+        return result;
     }
-    public void f(int n,String g,List<String> l){
-        if(g.length()==n){
-            l.add(g);
+
+    private void generateHappyString(int n, String current, int k) {
+        if (current.length() == n) {
+            count++;
+            if (count == k) {
+                result = current;
+            }
             return;
         }
-        for(char i='a';i<='c';i++){
-            if(g.length()>0&&g.charAt(g.length()-1)==i)continue;
-            f(n,g+i,l);
+        
+        for (char ch = 'a'; ch <= 'c'; ch++) {
+            if (!current.isEmpty() && current.charAt(current.length() - 1) == ch) {
+                continue;
+            }
+            generateHappyString(n, current + ch, k);
+            if (!result.isEmpty()) return; // Stop recursion if the result is found
         }
     }
 }

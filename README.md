@@ -530,6 +530,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pavis12/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/pavis12/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1170-shortest-common-supersequence](https://github.com/pavis12/leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pavis12/leetcode_solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pavis12/leetcode_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -619,6 +620,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0518-coin-change-ii) |
+| [1170-shortest-common-supersequence](https://github.com/pavis12/leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix

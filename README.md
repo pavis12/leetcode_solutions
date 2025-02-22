@@ -352,6 +352,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1364-tuple-with-same-product](https://github.com/pavis12/leetcode_solutions/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pavis12/leetcode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/pavis12/leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pavis12/leetcode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -682,6 +683,7 @@
 | [0684-redundant-connection](https://github.com/pavis12/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/pavis12/leetcode_solutions/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -698,6 +700,7 @@
 | [0733-flood-fill](https://github.com/pavis12/leetcode_solutions/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/pavis12/leetcode_solutions/tree/master/1036-rotting-oranges) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -732,6 +735,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -753,6 +757,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -775,6 +780,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/pavis12/leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/pavis12/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 ## Iterator
 |  |

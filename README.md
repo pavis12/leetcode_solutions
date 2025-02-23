@@ -533,6 +533,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/pavis12/leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pavis12/leetcode_solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pavis12/leetcode_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/pavis12/leetcode_solutions/tree/master/1720-crawler-log-folder) |
@@ -624,6 +625,7 @@
 | [0518-coin-change-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [1170-shortest-common-supersequence](https://github.com/pavis12/leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |

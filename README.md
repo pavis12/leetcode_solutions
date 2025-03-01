@@ -812,6 +812,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/pavis12/leetcode_solutions/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/pavis12/leetcode_solutions/tree/master/0197-rising-temperature) |
 | [1153-product-sales-analysis-i](https://github.com/pavis12/leetcode_solutions/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/pavis12/leetcode_solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |

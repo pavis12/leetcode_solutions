@@ -475,6 +475,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavis12/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/pavis12/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/pavis12/leetcode_solutions/tree/master/2649-count-total-number-of-colored-cells) |
 ## Recursion
 |  |
 | ------- |

@@ -329,6 +329,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/pavis12/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3429-special-array-i](https://github.com/pavis12/leetcode_solutions/tree/master/3429-special-array-i) |
+| [3463-alternating-groups-i](https://github.com/pavis12/leetcode_solutions/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavis12/leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -681,6 +682,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pavis12/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pavis12/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pavis12/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3463-alternating-groups-i](https://github.com/pavis12/leetcode_solutions/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavis12/leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String Matching
 |  |

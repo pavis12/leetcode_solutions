@@ -532,6 +532,7 @@
 | [0022-generate-parentheses](https://github.com/pavis12/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavis12/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/pavis12/leetcode_solutions/tree/master/0038-count-and-say) |
+| [0132-palindrome-partitioning-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pavis12/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pavis12/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pavis12/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -630,6 +631,7 @@
 | [0070-climbing-stairs](https://github.com/pavis12/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavis12/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pavis12/leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0213-house-robber-ii) |

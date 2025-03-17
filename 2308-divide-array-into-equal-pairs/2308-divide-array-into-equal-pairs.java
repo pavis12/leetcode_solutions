@@ -1,17 +1,19 @@
 class Solution {
-    public boolean divideArray(int[] n) {
-        int d[]=new int[501];
-        int c=0;
-        for(int i:n){
-            if(d[i]%2==1){
-                d[i]++;
-                if(c!=0)c--;
-            }
-            else{
-                d[i]++;
-                c++;
+
+    public boolean divideArray(int[] nums) {
+        // Track unpaired numbers
+        Set<Integer> unpaired = new HashSet<>();
+
+        // Add numbers to set if unseen, remove if seen
+        for (int num : nums) {
+            if (unpaired.contains(num)) {
+                unpaired.remove(num);
+            } else {
+                unpaired.add(num);
             }
         }
-        return c==0;
+
+        // Return true if all numbers were paired
+        return unpaired.isEmpty();
     }
 }

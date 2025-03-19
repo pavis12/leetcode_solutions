@@ -1,14 +1,15 @@
 class Solution {
-    int ans = 0;
-    int dfs(int n,int[] cost,int i) {
-        if(i > n) return 0;
-        int leftCost = dfs(n,cost,2 * i);
-        int rightCost = dfs(n,cost,2 * i + 1);
-        ans += Math.abs(leftCost - rightCost);
-        return Math.max(leftCost,rightCost) + cost[i - 1];
+    int a=0;
+    public int minIncrements(int n, int[] c) {
+        d(1,c,n);
+        return a;
     }
-    public int minIncrements(int n, int[] cost) {
-        dfs(n,cost,1);
-        return ans;
+    public int d(int i,int []c,int n){
+        if(i*2>n) return c[i-1];
+        int l=d(2*i,c,n);
+        int r=d(2*i+1,c,n);
+        a+=Math.abs(l-r);
+        return Math.max(l,r)+c[i-1];
     }
+
 }

@@ -327,6 +327,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pavis12/leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pavis12/leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/pavis12/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -575,6 +576,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pavis12/leetcode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pavis12/leetcode_solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -649,6 +651,7 @@
 | [1170-shortest-common-supersequence](https://github.com/pavis12/leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
@@ -776,6 +779,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -799,6 +803,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |

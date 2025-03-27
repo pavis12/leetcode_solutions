@@ -1,17 +1,41 @@
 class Solution {
-    public int minimumIndex(List<Integer> n) {
-        HashMap<Integer,Integer> m1= new HashMap<>();
-        HashMap<Integer,Integer> m2= new HashMap<>();
-        for(int i:n){
-            m2.put(i,m2.getOrDefault(i,0)+1);
-        }
-        for(int i=0;i<n.size();i++){
-            int l=n.get(i);
-            m2.put(l,m2.get(l)-1);
-            m1.put(l,m1.getOrDefault(l,0)+1);
-            if(m1.get(l)*2>i+1&&m2.get(l)*2>n.size()-i-1)return i;
-        }
-        return -1;
 
+    public int minimumIndex(List<Integer> nums) {
+        // Find the majority element
+        int x = nums.get(0), count = 0, xCount = 0, n = nums.size();
+
+        for (int num : nums) {
+            if (num == x) {
+                count++;
+            } else {
+                count--;
+            }
+            if (count == 0) {
+                x = num;
+                count = 1;
+            }
+        }
+
+        // Count frequency of majority element
+        for (int num : nums) {
+            if (num == x) {
+                xCount++;
+            }
+        }
+
+        // Check if valid split is possible
+        count = 0;
+        for (int index = 0; index < n; index++) {
+            if (nums.get(index) == x) {
+                count++;
+            }
+            int remainingCount = xCount - count;
+            // Check if both left and right partitions satisfy the condition
+            if (count * 2 > index + 1 && remainingCount * 2 > n - index - 1) {
+                return index;
+            }
+        }
+
+        return -1;
     }
 }

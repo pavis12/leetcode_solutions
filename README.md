@@ -317,6 +317,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pavis12/leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavis12/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pavis12/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/pavis12/leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pavis12/leetcode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -587,6 +588,7 @@
 | [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pavis12/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [1325-path-with-maximum-probability](https://github.com/pavis12/leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/pavis12/leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pavis12/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
@@ -656,6 +658,7 @@
 | [1170-shortest-common-supersequence](https://github.com/pavis12/leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/pavis12/leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pavis12/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |

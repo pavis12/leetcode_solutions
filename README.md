@@ -334,6 +334,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/pavis12/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/pavis12/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pavis12/leetcode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/pavis12/leetcode_solutions/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/pavis12/leetcode_solutions/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/pavis12/leetcode_solutions/tree/master/3483-alternating-groups-ii) |
@@ -594,6 +595,7 @@
 | [1325-path-with-maximum-probability](https://github.com/pavis12/leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/pavis12/leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pavis12/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pavis12/leetcode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -620,6 +622,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/pavis12/leetcode_solutions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pavis12/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pavis12/leetcode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Brainteaser
 |  |
 | ------- |
@@ -769,6 +772,7 @@
 | [0547-number-of-provinces](https://github.com/pavis12/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/pavis12/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pavis12/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pavis12/leetcode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Backtracking
 |  |
 | ------- |

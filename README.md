@@ -361,6 +361,7 @@
 | [0496-next-greater-element-i](https://github.com/pavis12/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/pavis12/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pavis12/leetcode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pavis12/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -745,6 +746,7 @@
 | [0684-redundant-connection](https://github.com/pavis12/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/pavis12/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/pavis12/leetcode_solutions/tree/master/0744-network-delay-time) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pavis12/leetcode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -763,6 +765,7 @@
 | [0684-redundant-connection](https://github.com/pavis12/leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/pavis12/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/pavis12/leetcode_solutions/tree/master/0744-network-delay-time) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pavis12/leetcode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/pavis12/leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -801,6 +804,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pavis12/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pavis12/leetcode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -825,6 +829,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pavis12/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pavis12/leetcode_solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pavis12/leetcode_solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |

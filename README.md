@@ -341,6 +341,7 @@
 | [3463-alternating-groups-i](https://github.com/pavis12/leetcode_solutions/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/pavis12/leetcode_solutions/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/pavis12/leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pavis12/leetcode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/pavis12/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/pavis12/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pavis12/leetcode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |

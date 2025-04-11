@@ -504,6 +504,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/pavis12/leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pavis12/leetcode_solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/pavis12/leetcode_solutions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/pavis12/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -914,4 +915,5 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pavis12/leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/pavis12/leetcode_solutions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->

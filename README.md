@@ -384,6 +384,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/pavis12/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/pavis12/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3548-find-the-count-of-good-integers](https://github.com/pavis12/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pavis12/leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pavis12/leetcode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
@@ -507,6 +508,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/pavis12/leetcode_solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/pavis12/leetcode_solutions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/pavis12/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3548-find-the-count-of-good-integers](https://github.com/pavis12/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -860,6 +862,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/pavis12/leetcode_solutions/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pavis12/leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/pavis12/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -918,4 +921,5 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pavis12/leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/pavis12/leetcode_solutions/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/pavis12/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->

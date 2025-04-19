@@ -330,6 +330,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pavis12/leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pavis12/leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pavis12/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -418,6 +419,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pavis12/leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/pavis12/leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pavis12/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -439,6 +441,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pavis12/leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pavis12/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -462,6 +465,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pavis12/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pavis12/leetcode_solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pavis12/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Linked List
 |  |

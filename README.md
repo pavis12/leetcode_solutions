@@ -349,6 +349,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavis12/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/pavis12/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/pavis12/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/pavis12/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/pavis12/leetcode_solutions/tree/master/0133-clone-graph) |
@@ -499,6 +500,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavis12/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/pavis12/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/pavis12/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/pavis12/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pavis12/leetcode_solutions/tree/master/0070-climbing-stairs) |
@@ -558,6 +560,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavis12/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/pavis12/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/pavis12/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/pavis12/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavis12/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |

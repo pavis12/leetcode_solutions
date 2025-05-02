@@ -413,6 +413,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/pavis12/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pavis12/leetcode_solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0868-push-dominoes](https://github.com/pavis12/leetcode_solutions/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/pavis12/leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pavis12/leetcode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pavis12/leetcode_solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -576,6 +577,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pavis12/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/pavis12/leetcode_solutions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/pavis12/leetcode_solutions/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pavis12/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pavis12/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/pavis12/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -690,6 +692,7 @@
 | [0494-target-sum](https://github.com/pavis12/leetcode_solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/pavis12/leetcode_solutions/tree/master/0518-coin-change-ii) |
+| [0868-push-dominoes](https://github.com/pavis12/leetcode_solutions/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/pavis12/leetcode_solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pavis12/leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pavis12/leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |

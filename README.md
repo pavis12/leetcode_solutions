@@ -337,6 +337,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pavis12/leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pavis12/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/pavis12/leetcode_solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/pavis12/leetcode_solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/pavis12/leetcode_solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pavis12/leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pavis12/leetcode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -615,6 +616,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/pavis12/leetcode_solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/pavis12/leetcode_solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/pavis12/leetcode_solutions/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/pavis12/leetcode_solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Graph
 |  |
 | ------- |

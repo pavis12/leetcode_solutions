@@ -1,26 +1,18 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        // If lengths are not equal, they cannot be anagrams
-        if (s.length() != t.length()) return false;
-
-        int c[] = new int[26];
-
-        // Count characters in the first string
-        for (char i : s.toCharArray()) {
-            c[i - 'a']++;
+        int l=s.length();
+        if(l!=t.length())return false;
+        int c[]=new int[26];
+        for(char a:s.toCharArray()){
+            c[a-'a']++;
         }
-
-        // Subtract counts using the second string
-        for (char i : t.toCharArray()) {
-            c[i - 'a']--;
-            if (c[i - 'a'] < 0) return false; // Early exit if counts mismatch
+        for(char a:t.toCharArray()){
+            if(c[a-'a']<0)return false;
+            c[a-'a']--;
         }
-
-        // If all counts are zero, they are anagrams
-        for (int i = 0; i < 26; i++) {
-            if (c[i] != 0) return false;
+        for(int i=0;i<26;i++){
+            if(c[i]!=0)return false;
         }
-
         return true;
     }
 }

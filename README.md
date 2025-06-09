@@ -321,6 +321,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pavis12/leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/pavis12/leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2048-build-array-from-permutation](https://github.com/pavis12/leetcode_solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/pavis12/leetcode_solutions/tree/master/2058-concatenation-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/pavis12/leetcode_solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pavis12/leetcode_solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -497,6 +498,7 @@
 | [1803-average-waiting-time](https://github.com/pavis12/leetcode_solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pavis12/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/pavis12/leetcode_solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/pavis12/leetcode_solutions/tree/master/2058-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pavis12/leetcode_solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/pavis12/leetcode_solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pavis12/leetcode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |

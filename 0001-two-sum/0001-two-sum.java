@@ -1,25 +1,39 @@
 class Solution {
     public int[] twoSum(int[] n, int t) {
-    Map<Integer, Integer> l = new HashMap<>();
-    
-    // Store the first element's value and index
-    l.put(n[0], 0);
-    
-    // Iterate over the rest of the array
-    for (int i = 1; i < n.length; i++) {
-        int p = t - n[i];  // Calculate the complement
-        
-        // Check if the complement exists in the map
-        if (l.containsKey(p)) {
-            return new int[] {l.get(p), i};  // Return the indices as an array
+        Map<Integer,List<Integer>> m=new HashMap<>();
+        for(int i=0;i<n.length;i++){
+            if(!m.containsKey(n[i])){
+                m.put(n[i],new ArrayList<>());
+            }
+            List<Integer> l=m.get(n[i]);
+            l.add(i);
+            m.put(n[i],l);
         }
-        
-        // Add the current element and its index to the map
-        l.put(n[i], i);
+        for(int i=0;i<n.length;i++){
+            int d=t-n[i];
+            if(m.containsKey(d)){
+                List<Integer> p=m.get(d);
+                for(int k:p){
+                    if(k!=i){
+                        return new int[]{i,k};
+                    }
+                }
+            }
+        }
+        /*Arrays.sort(n);
+        int i=0,j=n.length-1;
+        while(i<j){
+            if(n[i]+n[j]==t){
+                return new int[]{i,j};
+            }
+            int s=n[i]+n[j];
+            if(s>t){
+                j--;
+            }
+            else{
+                i++;
+            }
+        }*/
+        return new int[]{0,0};
     }
-    
-    // Return [-1, -1] if no solution is found
-    return new int[] {-1, -1};
-}
-
 }

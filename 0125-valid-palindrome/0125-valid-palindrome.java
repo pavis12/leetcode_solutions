@@ -5,7 +5,7 @@ class Solution {
         while(i<=j){
             char k = Character.toLowerCase(s.charAt(i));
             char t = Character.toLowerCase(s.charAt(j));
-            System.out.println(k+" "+t);
+            //System.out.println(k+" "+t);
             if(!Character.isLetterOrDigit(k))i++;
             else if(!Character.isLetterOrDigit(t))j--;
             else if(k!=t)return false;
